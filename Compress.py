@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Haven't written a single python program. first one, so don't judge 
 import os
 

@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 rm -rf ./OpenOS/
 rm -rf ./OpenComputers/
 rm -rf ./Rootfs.pkg
